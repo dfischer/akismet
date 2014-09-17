@@ -5,6 +5,7 @@ Meteor wrapper for NPM akismet-api
 
 define a settings.yml file for you to run with Meteor to set settings.
 
+meteor --settings settings.json
 ```
 {
   "Akismet": {
