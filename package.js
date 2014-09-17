@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Wrapper for npm akismet-api",
   version: "1.0.0",
-  git: ""
+  git: "https://github.com/dfischer/akismet"
 });
 
 Package.onUse(function(api) {
